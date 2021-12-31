@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata|Fira+Mono);
+
+
+  .title {
+	font-size: 50px;
+	font-weight: 50;
+	font-family: 'Fira+Mono', sans-serif;
+	opacity: 1;
+	position: left;
+	color: black;
+    margin-bottom: 0.2em;
+}
+
+.intro {
+    font-family: Fira+Mono;
+    font-style: italic;
+    font-size: 18px;
+    line-height: .5;
+    text-align: left;
+
+  }
+  
+  .subtitle {
+    font-family:Inconsolata ;
+    text-align: left;
+    font-size: 1.5rem;
+  }
+
+  body {
+    line-height: 1.6;
+    font-size: 18px;
+    margin: 10px auto;
+    max-width: 700px;
+  }
+
+  piece-title,
+  .piece-title {
+    font-family:'Fira+Mono', sans-serif;   
+    font-size: 1.15rem;
+    line-height: 1.6;   
+    background-color: rgba(0, 0, 0, 0.04);
+    border-radius: 3px;
+  }
+  
+  .indent{
+      
+      padding-left: 2.5em;
+  }
+   
+ 
+  hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #5d001e;
+    margin: 1em 0;
+    padding: 0;
+    }
+  
+  a:link,a:visited {
+    color: #5d001e;
+  }
+  
+ 
