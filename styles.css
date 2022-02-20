@@ -1,62 +1,39 @@
-@import url(https://fonts.googleapis.com/css?family=Inconsolata|Fira+Mono);
-
-/* .title {
-  font-size: 50px;
-  font-weight: 50;
-  font-family: "Inconsolata", sans-serif;
-  opacity: 1;
-  color: #2974dd;
-  margin-bottom: 0.2em;
-  text-align: center;
-} */
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
 
 .contact-top {
-  font-family: Fira + Mono;
+  color: ivory;
   font-size: 18px;
-  line-height: 0.5;
   text-align: center;
 }
 
-.intro {
-  font-family: Fira + Mono;
+.about {
+  color: ivory;
   font-size: 18px;
-  line-height: 0.5;
   padding-left: 2.5em;
 }
 
 .subtitle {
-  font-family: "Inconsolata", sans-serif;
+  color: ivory;
   text-align: left;
-  font-size: 1.5rem;
-  font-weight: 50;
+  font-size: 14px;
 }
 
-body {
-  line-height: 1.2;
+.body-text {
+  color: ivory;
   font-size: 18px;
-  margin: 10px auto;
-  max-width: 700px;
-}
-
-piece-title,
-.piece-title {
-  font-family: "Fira+Mono", sans-serif;
-  font-size: 18px;
-  line-height: 0.5;
-  background-color: rgba(0, 0, 0, 0.04);
-}
-
-.indent {
+  line-height: 1.2em;
   padding-left: 2.5em;
 }
 
-hr {
-  display: block;
-  height: 1px;
-  border-top: 1px solid #9a231a;
+body {
+  font-family: "Source Code Pro", monospace;
+  background: linear-gradient(to bottom, #002 0%, #212 100vh);
+  margin: 10px auto;
+  max-width: 700px;
+  padding: 10px;
 }
 
 a:link,
 a:visited {
-  color: #9a231a;
+  color: #f012be;
 }
