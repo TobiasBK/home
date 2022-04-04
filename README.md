@@ -1,5 +1,5 @@
 # Simple portfolio website
 
-**Goals** 👉 To build this fast, have it work fast, and be able to update it easily.🦾
+**Goals** 👉 To build fast, have it work, and be able to update it easily 🦾
 
-Aesthetic credit to [Maker's Purple Paper](https://nikolai.fyi/purple/)
+Credit for the aesthetic goes to [Maker's Purple Paper](https://nikolai.fyi/purple/).
